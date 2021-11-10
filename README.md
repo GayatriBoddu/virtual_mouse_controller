@@ -1,1 +1,1 @@
-# virtual_mouse_controller
+### here in this project my idea is fingertip location is mapped to RGB images to control the mouse cursor. Index finger will navigate the mouse curser and when index finger and middle are came together it will make a click on it.
